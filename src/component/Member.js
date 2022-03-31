@@ -5,7 +5,7 @@ class Member extends Component {
         const name = "essomba"
         const surname = "wilfread"
         
-        return (
+        return ( 
             <Fragment>
                     <h1>Hello my surname is : {surname.toLocaleUpperCase()}</h1>
                     <p>I'm a young web developper, my name is : {name.toLocaleUpperCase()}</p>
